@@ -7,6 +7,6 @@ int main void{
 
    c = a+b;
 
-   return c;
+   return c;//test
 
 }
